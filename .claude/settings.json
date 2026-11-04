@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ai-research-skills": {
+      "source": {
+        "source": "github",
+        "repo": "WenyuChiou/ai-research-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "academic-writing-skills@ai-research-skills": true
+  }
+}
